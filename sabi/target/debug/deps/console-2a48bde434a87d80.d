@@ -1,0 +1,11 @@
+/home/chococandy/Sabi-CLI/sabi/target/debug/deps/console-2a48bde434a87d80.rmeta: /home/chococandy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/lib.rs /home/chococandy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/common_term.rs /home/chococandy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/kb.rs /home/chococandy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/term.rs /home/chococandy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/unix_term.rs /home/chococandy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/utils.rs /home/chococandy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/ansi.rs
+
+/home/chococandy/Sabi-CLI/sabi/target/debug/deps/console-2a48bde434a87d80.d: /home/chococandy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/lib.rs /home/chococandy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/common_term.rs /home/chococandy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/kb.rs /home/chococandy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/term.rs /home/chococandy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/unix_term.rs /home/chococandy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/utils.rs /home/chococandy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/ansi.rs
+
+/home/chococandy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/lib.rs:
+/home/chococandy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/common_term.rs:
+/home/chococandy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/kb.rs:
+/home/chococandy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/term.rs:
+/home/chococandy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/unix_term.rs:
+/home/chococandy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/utils.rs:
+/home/chococandy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/console-0.15.7/src/ansi.rs:
